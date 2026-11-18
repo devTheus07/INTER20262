@@ -65,7 +65,6 @@ Abra e execute os scripts da pasta `banco/`, **nesta ordem**:
 06_HardSoft_DadosTeste.sql   dados de teste (opcional)
 ```
 
-> Os scripts criam tudo do zero (somente `CREATE`, sem `ALTER` nem `DROP`).
 > Execute-os em um servidor onde o banco **HardSoftDB ainda não existe**.
 
 ### 2. Configurar a conexão
