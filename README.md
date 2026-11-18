@@ -4,7 +4,7 @@ Sistema de gestão de ordens de serviço para a assistência técnica **Leandro 
 (manutenção de computadores e notebooks).
 
 Projeto acadêmico — FATEC São José do Rio Preto.
-Grupo **HardSoft**: Leandro Belati, Matheus Vilela e Davi Vieira.
+Grupo **HardSoft**: Leandro Belati, Matheus Vilela, Davi Vieira e Isabelle Miraglia.
 
 ## Arquitetura: o banco de dados é independente do Java
 
