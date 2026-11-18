@@ -1,10 +1,10 @@
 # HardSoft — Sistema de Ordem de Serviço
 
-Sistema de gestão de ordens de serviço para a assistência técnica **Leandro Técnico de Informática**
+Sistema de gestão de ordens de serviço para a assistência técnica **Matheus Técnico de Informática**
 (manutenção de computadores e notebooks).
 
 Projeto acadêmico — FATEC São José do Rio Preto.
-Grupo **HardSoft**: Leandro Belati, Matheus Vilela, Davi Vieira e Isabelle Miraglia.
+Grupo **HardSoft**: Matheus Vilela, Davi Vieira e Isabelle Miraglia.
 
 ## Arquitetura: o banco de dados é independente do Java
 
